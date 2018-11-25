@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="activity_bg">#EFEFEF</color>
+    <color name="black">#000000</color>
+
+    <color name="colorNavIcon">#FFFFFF</color>
+    <color name="colorNavText">#FFFFFF</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="cardColor">#FFFDE7</color>
+
+    <color name="colorDataScreen">#af8756</color>
+
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="profile_text">#1a1a1a</color>
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="color_green">#07AB3B</color>
+    <color name="red">#FF513E</color>
+
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+
+    <color name="blue">#0A88A4</color>
+    <color name="blue2">#07A5C2</color>
+    <color name="light_red">#FD8467</color>
+
+
+    <color name="transparent">#00000000</color>
+</resources>

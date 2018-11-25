@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HARINATH GEOFENCING</string>
+
+
+    <string name="big_text">GEO FENCING SYSTEM</string>
+    <string name="small_text">MARKETING - SCHOOL ATTENDANCE</string>
+
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="student_id">Mobile Number :</string>
+    <string name="email_id">Email ID :</string>
+    <string name="college_email">Email ID :</string>
+    <string name="password_">Password :</string>
+    <string name="confirm_password">Confirm Password :</string>
+    <string name="type">Registration Type : </string>
+
+
+    <string name="add_fencing">NEW SCHOOL FENCING</string>
+    <string name="view_users">VIEW USERS</string>
+    <string name="add_offers">ADD OFFERS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="confirm_logout">CONFIRM LOGOUT?</string>
+
+    <array name="types">
+        <item>Select</item>
+        <item>Business Unit</item>
+        <item>Parent</item>
+    </array>
+    <string name="title_activity_maps">Fencings</string>
+    <string name="title_activity_my_fencing">My Fencing</string>
+    <string name="title_activity_create_school_fencing">Map</string>
+    <string name="title_activity_school_fencing_map">Map</string>
+</resources>

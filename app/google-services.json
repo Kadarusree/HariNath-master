@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172217658700",
+    "firebase_url": "https://harinath-de3eb.firebaseio.com",
+    "project_id": "harinath-de3eb",
+    "storage_bucket": "harinath-de3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172217658700:android:d7a89b64c2c0a439",
+        "android_client_info": {
+          "package_name": "harinath.com.harinath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172217658700-rn38nvuh72eb09eg67i1qe373eth4qhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "harinath.com.harinath",
+            "certificate_hash": "d60887c0299313335cc43202acea8333dcffb0d3"
+          }
+        },
+        {
+          "client_id": "172217658700-tf5b6vremv5uv9m94vqql372r8320crk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLJfZUYqS7xqkz09TbWhlsOFaFq9VRTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172217658700-tf5b6vremv5uv9m94vqql372r8320crk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
