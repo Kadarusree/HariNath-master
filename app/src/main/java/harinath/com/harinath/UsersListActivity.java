@@ -75,6 +75,7 @@ public class UsersListActivity extends AppCompatActivity implements
                 if (dataSnapshot.getChildrenCount() > 0) {
                     for (DataSnapshot indi : dataSnapshot.getChildren()) {
                         UserRegPojo volItem = indi.getValue(UserRegPojo.class);
+                        volItem.setReg_key(indi.getKey());
                         mUsersList.add(volItem);
                     }
                     mAdapter.notifyDataSetChanged();

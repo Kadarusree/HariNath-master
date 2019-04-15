@@ -93,7 +93,9 @@ public class AddChlid extends AppCompatActivity {
 
                     if (dpst.getValue(UserRegPojo.class).getType().equalsIgnoreCase("parent"))
                     {
-                        mUsers.add(dpst.getValue(UserRegPojo.class));
+                        UserRegPojo mPojo = dpst.getValue(UserRegPojo.class);
+                        mPojo.setReg_key(dpst.getKey());
+                        mUsers.add(mPojo);
                         mNames.add(dpst.getValue(UserRegPojo.class).getFirstname());
                     }
 
